@@ -112,6 +112,7 @@ public:
         nTargetTimespan = 1 * 120; // YUP: 2 minutes
         nTargetSpacing = 1 * 120;  // YUP: 2 minutes
         nLastPOWBlock = 200;
+        nLastMinBlock = 64800;
         nMaturity = 40;
         nMasternodeCountDrift = 20;
         nModifierUpdateBlock = 615800;
@@ -205,6 +206,7 @@ public:
         nTargetTimespan = 1 * 60; // YUP: 1 day
         nTargetSpacing = 1 * 60;  // YUP: 1 minute
         nLastPOWBlock = 200;
+        nLastMinBlock = 200;
         nMaturity = 15;
         nMasternodeCountDrift = 4;
         nModifierUpdateBlock = 51197; //approx Mon, 17 Apr 2017 04:00:00 GMT
