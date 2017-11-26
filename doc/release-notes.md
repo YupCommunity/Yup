@@ -1,4 +1,4 @@
-YUP Core version 2.3.1 is now available from:
+YUP Core version 1.0.2.0 is now available from:
 
   <https://github.com/notforhire/yup/releases>
 
