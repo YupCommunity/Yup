@@ -339,6 +339,7 @@ Value masternodeconnect(const Array& params, bool fHelp)
     }
 }
 
+//TODO break this call into its individual components
 Value getmasternodecount (const Array& params, bool fHelp)
 {
     if (fHelp || (params.size() > 0))
@@ -357,25 +358,8 @@ Value getmasternodecount (const Array& params, bool fHelp)
             "\nExamples:\n" +
             HelpExampleCli("getmasternodecount", "") + HelpExampleRpc("getmasternodecount", ""));
 
-    Object obj;
-    int nCount = 0;
-    int ipv4 = 0, ipv6 = 0, onion = 0;
 
-    if (chainActive.Tip())
-        mnodeman.GetNextMasternodeInQueueForPayment(chainActive.Tip()->nHeight, true, nCount);
-
-    mnodeman.CountNetworks(ActiveProtocol(), ipv4, ipv6, onion);
-
-    obj.push_back(Pair("total", mnodeman.size()));
-    obj.push_back(Pair("stable", mnodeman.stable_size()));
-    obj.push_back(Pair("miragecompat", mnodeman.CountEnabled(ActiveProtocol())));
-    obj.push_back(Pair("enabled", mnodeman.CountEnabled()));
-    obj.push_back(Pair("inqueue", nCount));
-    obj.push_back(Pair("ipv4", ipv4));
-    obj.push_back(Pair("ipv6", ipv6));
-    obj.push_back(Pair("onion", onion));
-
-    return obj;
+    return mnodeman.size();
 }
 
 Value masternodecurrent (const Array& params, bool fHelp)
