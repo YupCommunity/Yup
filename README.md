@@ -10,7 +10,7 @@ YUP is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 10K YUP
 
-More information at [yup.org](http://www.yup.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [YupCrypto.com](http://www.yupcrypto.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=2310694)
 
 ### Coin Specs
 <table>
