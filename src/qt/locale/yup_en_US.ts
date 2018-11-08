@@ -3292,6 +3292,10 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>The Dash Core developers</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>The PIVX Core developers</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>The YUP Core developers</translation>
     </message>

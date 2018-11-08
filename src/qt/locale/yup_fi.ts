@@ -2167,6 +2167,10 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX Core kehittäjät</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>YUP core kehittäjät</translation>
     </message>

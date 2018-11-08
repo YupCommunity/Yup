@@ -4222,6 +4222,11 @@ https://www.transifex.com/notforhire/notforhire-translations</source>
     </message>
     <message>
         <location line="+1"/>
+        <source>The PIVX Core developers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>The YUP Core developers</source>
         <translation type="unfinished"></translation>
     </message>

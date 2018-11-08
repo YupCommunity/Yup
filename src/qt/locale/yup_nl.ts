@@ -2150,6 +2150,10 @@ MultiSend: %1</translation>
         <translation>De Dash Core ontwikkelaars</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>De PIVX Core ontwikkelaars</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>De YUP Core ontwikkelaars</translation>
     </message>

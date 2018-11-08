@@ -3259,6 +3259,10 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX "core" udviklerne</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>YUP "core" udviklerne</translation>
     </message>
@@ -4234,8 +4238,12 @@ For eksempel: alertnotify=Echo %% | mail - s "YUP ALARM!" e-mail@administrator.d
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The YUP Core Developers</source>
-        <translation>Copyright (C) 2015-%i The YUP Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2017-%i The YUP Core Developers</source>
+        <translation>Copyright (C) 2017-%i The YUP Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -2921,6 +2921,10 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>Разработчики PIVX Core</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>Разработчики YUP Core</translation>
     </message>

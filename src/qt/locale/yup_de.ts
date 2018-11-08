@@ -2279,6 +2279,10 @@ MultiSend wird nicht aktiviert bis Sie auf Aktivieren geklickt haben.</translati
         <translation>Die Dash Core Entwickler</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>Die PIVX Core Entwickler</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>Die YUP Core Entwickler</translation>
     </message>

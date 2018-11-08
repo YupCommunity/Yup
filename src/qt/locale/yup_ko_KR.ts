@@ -3301,6 +3301,10 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX Core 개발자</translation>
+    </message>
+    <message>
         <source>The YUP Core developers</source>
         <translation>YUP Core 개발자</translation>
     </message>
