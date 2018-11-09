@@ -30,7 +30,7 @@
 #     CC="$PTHREAD_CC"
 #
 #   In addition, if the PTHREAD_CREATE_JOINABLE thread-attribute constant
-#   has a nonstandard name, defines PTHREAD_CREATE_JOINABLE to that name
+#   has a non-standard name, defines PTHREAD_CREATE_JOINABLE to that name
 #   (e.g. PTHREAD_CREATE_UNDETACHED on AIX).
 #
 #   Also HAVE_PTHREAD_PRIO_INHERIT is defined if pthread is found and the

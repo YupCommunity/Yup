@@ -1044,7 +1044,7 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1279,7 +1279,7 @@ Address: %4
     </message>
     <message>
         <location line="+196"/>
-        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again.</source>
+        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3151,8 +3151,8 @@ https://www.transifex.com/notforhire/notforhire-translations</source>
     </message>
     <message>
         <location line="-216"/>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
-        <translation>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</translation>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</source>
+        <translation>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -5081,8 +5081,8 @@ https://www.transifex.com/notforhire/notforhire-translations</source>
     </message>
     <message>
         <location line="+2"/>
-        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation type="unfinished">Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</translation>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible any more, only SOCKS5 proxies are supported.</source>
+        <translation type="unfinished">Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible any more, only SOCKS5 proxies are supported.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5586,8 +5586,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YUP Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
-        <translation type="unfinished">Error: A fatal internal error occured, see debug.log for details</translation>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
+        <translation type="unfinished">Error: A fatal internal error occurred, see debug.log for details</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5756,8 +5756,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YUP Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Invalid masternodeprivkey. Please see documenation.</source>
-        <translation type="unfinished">Invalid masternodeprivkey. Please see documenation.</translation>
+        <source>Invalid masternodeprivkey. Please see documentation.</source>
+        <translation type="unfinished">Invalid masternodeprivkey. Please see documentation.</translation>
     </message>
     <message>
         <location line="+1"/>

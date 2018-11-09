@@ -288,7 +288,7 @@ Value submitbudget(const Array& params, bool fHelp)
     CAmount nAmount = AmountFromValue(params[5]);
     uint256 hash = ParseHashV(params[6], "parameter 1");
 
-    //create the proposal incase we're the first to make it
+    //create the proposal in case we're the first to make it
     CBudgetProposalBroadcast budgetProposalBroadcast(strProposalName, strURL, nPaymentCount, scriptPubKey, nAmount, nBlockStart, hash);
 
     std::string strError = "";

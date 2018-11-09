@@ -65,7 +65,7 @@ QT_TRANSLATE_NOOP("yup-core", ""
 "Error: Listening for incoming connections failed (listen returned error %s)"),
 QT_TRANSLATE_NOOP("yup-core", ""
 "Error: Unsupported argument -socks found. Setting SOCKS version isn't "
-"possible anymore, only SOCKS5 proxies are supported."),
+"possible any more, only SOCKS5 proxies are supported."),
 QT_TRANSLATE_NOOP("yup-core", ""
 "Execute command when a relevant alert is received or we see a really long "
 "fork (%s in cmd is replaced by message)"),
@@ -272,7 +272,7 @@ QT_TRANSLATE_NOOP("yup-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("yup-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("yup-core", "Error recovering public key."),
 QT_TRANSLATE_NOOP("yup-core", "Error"),
-QT_TRANSLATE_NOOP("yup-core", "Error: A fatal internal error occured, see debug.log for details"),
+QT_TRANSLATE_NOOP("yup-core", "Error: A fatal internal error occurred, see debug.log for details"),
 QT_TRANSLATE_NOOP("yup-core", "Error: Can't select current denominated inputs"),
 QT_TRANSLATE_NOOP("yup-core", "Error: Disk space is low!"),
 QT_TRANSLATE_NOOP("yup-core", "Error: Unsupported argument -tor found, use -onion."),
@@ -306,7 +306,7 @@ QT_TRANSLATE_NOOP("yup-core", "Invalid amount for -mintxfee=<amount>: '%s'"),
 QT_TRANSLATE_NOOP("yup-core", "Invalid amount for -paytxfee=<amount>: '%s' (must be at least %s)"),
 QT_TRANSLATE_NOOP("yup-core", "Invalid amount for -paytxfee=<amount>: '%s'"),
 QT_TRANSLATE_NOOP("yup-core", "Invalid amount for -reservebalance=<amount>"),
-QT_TRANSLATE_NOOP("yup-core", "Invalid masternodeprivkey. Please see documenation."),
+QT_TRANSLATE_NOOP("yup-core", "Invalid masternodeprivkey. Please see documentation."),
 QT_TRANSLATE_NOOP("yup-core", "Invalid netmask specified in -whitelist: '%s'"),
 QT_TRANSLATE_NOOP("yup-core", "Invalid port detected in masternode.conf"),
 QT_TRANSLATE_NOOP("yup-core", "Invalid private key."),

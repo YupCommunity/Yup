@@ -886,7 +886,7 @@
         <translation>Opções de conexão:</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
         <translation>Erro: Um erro interno fatal ocorreu, veja debug.log para detalhes</translation>
     </message>
     <message>

@@ -56,7 +56,7 @@ static const unsigned int STANDARD_NOT_MANDATORY_VERIFY_FLAGS = STANDARD_SCRIPT_
 
 enum txnouttype
 {
-    TX_NONSTANDARD,
+    TX_non-standard,
     // 'standard' transaction types:
     TX_PUBKEY,
     TX_PUBKEYHASH,

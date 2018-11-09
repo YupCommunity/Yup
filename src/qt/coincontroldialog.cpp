@@ -434,7 +434,7 @@ void CoinControlDialog::viewItemChanged(QTreeWidgetItem* item, int column)
             int rounds = pwalletMain->GetInputMirageRounds(vin);
             if (coinControl->useMiRage && rounds < nMirageRounds) {
                 QMessageBox::warning(this, windowTitle(),
-                    tr("Non-anonymized input selected. <b>Mirage will be disabled.</b><br><br>If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again."),
+                    tr("Non-anonymized input selected. <b>Mirage will be disabled.</b><br><br>If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again."),
                     QMessageBox::Ok, QMessageBox::Ok);
                 coinControl->useMiRage = false;
             }

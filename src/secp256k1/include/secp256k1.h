@@ -53,7 +53,7 @@ extern "C" {
 void secp256k1_start(unsigned int flags);
 
 /** Free all memory associated with this library. After this, no
- *  functions can be called anymore, except secp256k1_start()
+ *  functions can be called any more, except secp256k1_start()
  */
 void secp256k1_stop(void);
 

@@ -68,7 +68,7 @@ bool Solver(const CKeyStore& keystore, const CScript& scriptPubKey, uint256 hash
     CKeyID keyID;
     switch (whichTypeRet)
     {
-    case TX_NONSTANDARD:
+    case TX_non-standard:
     case TX_NULL_DATA:
     {
         LogPrintf("*** null data \n");
@@ -221,7 +221,7 @@ static CScript CombineSignatures(const CScript& scriptPubKey, const CTransaction
 {
     switch (txType)
     {
-    case TX_NONSTANDARD:
+    case TX_non-standard:
     case TX_NULL_DATA:
         // Don't know anything about this, assume bigger one is correct:
         if (sigs1.size() >= sigs2.size())

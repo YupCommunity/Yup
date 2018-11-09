@@ -115,7 +115,7 @@ bool AppInit(int argc, char* argv[])
                 fCommandLine = true;
 
         if (fCommandLine) {
-            fprintf(stderr, "Error: There is no RPC client functionality in yupd anymore. Use the yup-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in yupd any more. Use the yup-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32

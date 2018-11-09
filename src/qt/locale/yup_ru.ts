@@ -802,7 +802,7 @@ MultiSend: %1</translation>
         <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;разблокирован&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
         <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;разблокирован&lt;/b&gt; для анонимизации и хранения.</translation>
     </message>
     <message>
@@ -991,7 +991,7 @@ MultiSend: %1</translation>
         <translation>Для использования этой функции перейдите в "Режим списка"</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again.</source>
+        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
         <translation>Выбран неанонимизированный ввод. &lt;b&gt;Запутывание будет отключено. &lt;/b&gt; &lt;br&gt;&lt;br&gt;. Если вы всё же хотите использовать запутывание, пожалуйста отмените сначала выбор всех неанонимизированных вводов, затем снова поставте флажок "Запутывание".</translation>
     </message>
     <message>
@@ -2432,7 +2432,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Перестроить индекс блокчейна из текущих blk000??.dat файлов.</translation>
     </message>
     <message>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</source>
         <translation>Кнопка ниже перезапустит кошелёк с некоторыми опциями кммандной строки чтобы отремотировать кошелёк, файлы блокчейна и пропавшие / устаревшие транзакции. </translation>
     </message>
     <message>
@@ -3263,7 +3263,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
         <translation>Ошибка: произошла фатальная внутренняя ошибка, подробности см. В файле debug.log.</translation>
     </message>
     <message>

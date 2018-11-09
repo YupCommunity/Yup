@@ -810,7 +810,7 @@ MultiEnvío: %1</translation>
         <translation>El monedero está &lt;b&gt;encriptado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
         <translation>El monedero está &lt;b&gt;encriptado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt; sólo para anonimato y prueba de participación.</translation>
     </message>
     <message>
@@ -999,7 +999,7 @@ MultiEnvío: %1</translation>
         <translation>Por favor cambie a "Modo de Lista" para utilizar esta función.</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again.</source>
+        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
         <translation>Has seleccionado una entrada que no ha sido anonimizada. &lt;b&gt;La Ofuscación será deshabilitada.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si todavía quiere utilizar la Ofuscación, por favor primero deseleccione todas las entrada no anonimizadas y entonces marque la casilla de Ofuscación de nuevo.</translation>
     </message>
     <message>
@@ -2461,7 +2461,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Reconstruir el índice de la cadena de bloques desde los archivos blk000??.dat actuales.</translation>
     </message>
     <message>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</source>
         <translation>Los botones de más abajo reiniciarán el programa con comandos especiales para reparar el monedero, solucionar problemas con cadenas de bloques corruptas o buscar transacciones obsoletas o perdidas</translation>
     </message>
     <message>
@@ -3959,7 +3959,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Error: La escucha para conexiones entrantes falló (la escucha retorno error %s)</translation>
     </message>
     <message>
-        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible any more, only SOCKS5 proxies are supported.</source>
         <translation>Error: Argumento -socks no soportado. No se permite utilizar la versión SOCKS, solo proxies de SOCKS5 están soportados.</translation>
     </message>
     <message>
@@ -4375,7 +4375,7 @@ por ejemplo: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
         <translation>Error</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
         <translation>Error: Un error interno fatal a ocurrido, ver debug.log para mas detalles</translation>
     </message>
     <message>
@@ -4511,7 +4511,7 @@ por ejemplo: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
         <translation>Importe inválido para -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
-        <source>Invalid masternodeprivkey. Please see documenation.</source>
+        <source>Invalid masternodeprivkey. Please see documentation.</source>
         <translation>Valor de masternodeprivkey es inválido. Por favor ver la documentación.</translation>
     </message>
     <message>

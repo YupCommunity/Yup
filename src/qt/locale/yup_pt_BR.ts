@@ -779,7 +779,7 @@ MultiSend: %1</translation>
         <translation>A Carteira está &lt;b&gt;criptografada&lt;/b&gt; e atualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
         <translation>A Carteira está &lt;b&gt;criptografada&lt;/b&gt; e atualmente &lt;b&gt;desbloqueada&lt;/b&gt; somente para anonimização e staking</translation>
     </message>
     <message>
@@ -956,7 +956,7 @@ MultiSend: %1</translation>
         <translation>Favor alterar para o "Modo de lista" para usar esta função.</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again.</source>
+        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
         <translation>Input não-anonimizado selecionado. &lt;b&gt;Ofuscação será desabilitada.&lt;/b&gt;&lt;br&gt;&lt;br&gt; Se você ainda quiser usar a Ofuscação, favor desmarcar todos os inputs não anônimos primeiro e então marque a opção de Ofuscação novamente.</translation>
     </message>
     <message>
@@ -2196,7 +2196,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Atualizar formato da carteira</translation>
     </message>
     <message>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</source>
         <translation>Os botões abaixo vão reiniciar a carteira com opções de linha de comando para reparar a carteira, corrigir problemas com os arquivos corrompidos da blockchain ou transações perdidas/obsoletas.</translation>
     </message>
     <message>
@@ -3466,7 +3466,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Permitir o uso de ofuscação automática para fundos armazenados nesta carteira (0-1, padrão: %u)</translation>
     </message>
     <message>
-        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible any more, only SOCKS5 proxies are supported.</source>
         <translation>Erro: Argumento não suportado -socks encontrado. Definir a versão SOCKS não é mais possível, somente proxies SOCKS5 são suportados.</translation>
     </message>
     <message>
@@ -3674,7 +3674,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Erro</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
         <translation>Erro: Um erro interno ocorreu, veja debug.log para detalhes</translation>
     </message>
     <message>
@@ -3782,7 +3782,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Quantia inválida para -reservebalance=&lt;quantidade&gt;</translation>
     </message>
     <message>
-        <source>Invalid masternodeprivkey. Please see documenation.</source>
+        <source>Invalid masternodeprivkey. Please see documentation.</source>
         <translation>masternodeprivkey inválido. Favor conferir o manual.</translation>
     </message>
     <message>

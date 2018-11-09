@@ -24,7 +24,7 @@ const char* GetTxnOutputType(txnouttype t)
 {
     switch (t)
     {
-    case TX_NONSTANDARD: return "nonstandard";
+    case TX_non-standard: return "non-standard";
     case TX_PUBKEY: return "pubkey";
     case TX_PUBKEYHASH: return "pubkeyhash";
     case TX_SCRIPTHASH: return "scripthash";
@@ -154,7 +154,7 @@ bool Solver(const CScript& scriptPubKey, txnouttype& typeRet, vector<vector<unsi
     }
 
     vSolutionsRet.clear();
-    typeRet = TX_NONSTANDARD;
+    typeRet = TX_non-standard;
     return false;
 }
 
@@ -162,7 +162,7 @@ int ScriptSigArgsExpected(txnouttype t, const std::vector<std::vector<unsigned c
 {
     switch (t)
     {
-    case TX_NONSTANDARD:
+    case TX_non-standard:
     case TX_NULL_DATA:
         return -1;
     case TX_PUBKEY:
@@ -198,7 +198,7 @@ bool IsStandard(const CScript& scriptPubKey, txnouttype& whichType)
                 (!GetBoolArg("-datacarrier", true) || scriptPubKey.size() > nMaxDatacarrierBytes))
         return false;
 
-    return whichType != TX_NONSTANDARD;
+    return whichType != TX_non-standard;
 }
 
 bool ExtractDestination(const CScript& scriptPubKey, CTxDestination& addressRet)
@@ -234,7 +234,7 @@ bool ExtractDestination(const CScript& scriptPubKey, CTxDestination& addressRet)
 bool ExtractDestinations(const CScript& scriptPubKey, txnouttype& typeRet, vector<CTxDestination>& addressRet, int& nRequiredRet)
 {
     addressRet.clear();
-    typeRet = TX_NONSTANDARD;
+    typeRet = TX_non-standard;
     vector<valtype> vSolutions;
     if (!Solver(scriptPubKey, typeRet, vSolutions))
         return false;

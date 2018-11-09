@@ -45,7 +45,7 @@ isminetype IsMine(const CKeyStore& keystore, const CScript& scriptPubKey)
 
     CKeyID keyID;
     switch (whichType) {
-    case TX_NONSTANDARD:
+    case TX_non-standard:
     case TX_NULL_DATA:
         break;
     case TX_PUBKEY:

@@ -786,7 +786,7 @@ Adresse: %4
         <translation>Tegnebogen &lt;b&gt;er krypteret&lt;/b&gt;men i øjeblikket&lt;b&gt;låst op&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
         <translation>Tegnebogen &lt;b&gt;er krypteret,&lt;/b&gt;er i øjeblikket&lt;b&gt;låst op,&lt;/b&gt;men kun for anonymisering og indskydning.</translation>
     </message>
     <message>
@@ -975,7 +975,7 @@ Adresse: %4
         <translation>Skift til "listeformat" for at benytte denne funktion</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-nonymized inputs first and then check Mirage checkbox again.</source>
+        <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
         <translation>Ikke anonymiseret indhold valgt.&lt;b&gt;tilsløring vil være slået fra.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Hvis De ønsker at anvende tilsløring skal De fravælge alt ikke anonymiseret indhold først, derefter afmærke boksen for tilsløring igen.</translation>
     </message>
     <message>
@@ -2427,7 +2427,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Genopbyg blokkædens indeks fra de aktuelle blk000??.dat filer</translation>
     </message>
     <message>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockchain files or missing/obsolete transactions.</source>
         <translation>Nedenstående knapper vil genstarte tegnebogen med kommandolinieparametre fr at reparere den, korrigere fejl og mangler i block-chain filerne, herunder også undersøge for manglende eller fejlagtige transaktioner</translation>
     </message>
     <message>
@@ -3910,7 +3910,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
         <translation>Fejl! Der opstod en fejl i under lytning efter indkommende forbindelser (Listen returnerede fejl %s)</translation>
     </message>
     <message>
-        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible any more, only SOCKS5 proxies are supported.</source>
         <translation>Fejl! Argumentet er ikke understøttet -socks found. Det er ikke muligt at bestemme hvilken SOCKS version længere. Kun SOCKS5 proxies understøttes.</translation>
     </message>
     <message>
@@ -4326,7 +4326,7 @@ For eksempel: alertnotify=Echo %% | mail - s "YUP ALARM!" e-mail@administrator.d
         <translation>Fejl!</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
         <translation>Fejl! En fatal intern fejl opstod. Se debug.log for nærmere detaljer</translation>
     </message>
     <message>
@@ -4462,7 +4462,7 @@ For eksempel: alertnotify=Echo %% | mail - s "YUP ALARM!" e-mail@administrator.d
         <translation>Ugyldigt beløb til -reservebalance=&lt;beløb&gt;:</translation>
     </message>
     <message>
-        <source>Invalid masternodeprivkey. Please see documenation.</source>
+        <source>Invalid masternodeprivkey. Please see documentation.</source>
         <translation> Ugyldig masternodeprivkey. Se dokumentationen</translation>
     </message>
     <message>

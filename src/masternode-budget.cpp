@@ -212,7 +212,7 @@ void CBudgetManager::SubmitFinalBudget()
         return;
     }
 
-    //create the proposal incase we're the first to make it
+    //create the proposal in case we're the first to make it
     CFinalizedBudgetBroadcast finalizedBudgetBroadcast(strBudgetName, nBlockStart, vecTxBudgetPayments, txidCollateral);
 
     std::string strError = "";
@@ -372,13 +372,13 @@ void DumpBudgets()
     else if (readResult != CBudgetDB::Ok) {
         LogPrintf("Error reading budget.dat: ");
         if (readResult == CBudgetDB::IncorrectFormat)
-            LogPrintf("magic is ok but data has invalid format, will try to recreate\n");
+            LogPrintf("magic is OK but data has invalid format, will try to recreate\n");
         else {
             LogPrintf("file format is unknown or invalid, please fix it manually\n");
             return;
         }
     }
-    LogPrintf("Writting info to budget.dat...\n");
+    LogPrintf("Writing info to budget.dat...\n");
     budgetdb.Write(budget);
 
     LogPrintf("Budget dump finished  %dms\n", GetTimeMillis() - nStart);
