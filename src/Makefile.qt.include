@@ -9,6 +9,7 @@ QT_TS = \
   qt/locale/yup_da.ts \
   qt/locale/yup_de.ts \
   qt/locale/yup_en.ts \
+  qt/locale/yup_en_GB.ts \
   qt/locale/yup_en_US.ts \
   qt/locale/yup_es.ts \
   qt/locale/yup_fi.ts \
