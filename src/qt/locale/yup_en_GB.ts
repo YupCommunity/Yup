@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>For anonymization and staking only</source>
-        <translation>For anonymization and staking only</translation>
+        <translation>For anonymisation and staking only</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
@@ -579,7 +579,7 @@
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
-        <translation>Synchronizing additional data: %p%</translation>
+        <translation>Synchronising additional data: %p%</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -695,7 +695,7 @@
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Synchronizing with network...</translation>
+        <translation>Synchronising with network...</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -1000,7 +1000,7 @@ Address: %4
     </message>
     <message>
         <source>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymized inputs first and then check Mirage checkbox again.</source>
-        <translation>Non-anonymized input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymised inputs first and then check Mirage checkbox again.</translation>
+        <translation>Non-anonymised input selected. &lt;b&gt;Mirage will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Mirage, please deselect all non-anonymised inputs first and then check Mirage checkbox again.</translation>
     </message>
     <message>
         <source>highest</source>
@@ -1225,7 +1225,7 @@ Address: %4
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Start minimized</translation>
+        <translation>Start minimised</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
@@ -1557,11 +1557,11 @@ Please check the address and try again.</translation>
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 YUP to anonymize 10000 YUP</source>
-        <translation>This option is the quickest and will cost about ~0.025 YUP to anonymize 10000 YUP</translation>
+        <translation>This option is the quickest and will cost about ~0.025 YUP to anonymise 10000 YUP</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 YUP to anonymize 10000 YUP</source>
-        <translation>This option is moderately fast and will cost about 0.05 YUP to anonymize 10000 YUP</translation>
+        <translation>This option is moderately fast and will cost about 0.05 YUP to anonymise 10000 YUP</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1569,7 +1569,7 @@ Please check the address and try again.</translation>
     </message>
     <message>
         <source>0.1 YUP per 10000 YUP you anonymize.</source>
-        <translation>0.1 YUP per 10000 YUP you anonymize.</translation>
+        <translation>0.1 YUP per 10000 YUP you anonymise.</translation>
     </message>
     <message>
         <source>Mirage Configuration</source>
@@ -1675,7 +1675,7 @@ Please check the address and try again.</translation>
     </message>
     <message>
         <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-        <translation>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</translation>
+        <translation>This setting determines the amount of individual masternodes that an input will be anonymised through.&lt;br/&gt;More rounds of anonymisation gives a higher degree of privacy, but also costs more in fees.</translation>
     </message>
     <message>
         <source>Mirage rounds to use</source>
@@ -1687,7 +1687,7 @@ Please check the address and try again.</translation>
     </message>
     <message>
         <source>Amount of YUP to keep anonymized</source>
-        <translation>Amount of YUP to keep anonymized</translation>
+        <translation>Amount of YUP to keep anonymised</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1753,19 +1753,19 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Show only a tray icon after minimizing the window.</translation>
+        <translation>Show only a tray icon after minimising the window.</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimize to the tray instead of the taskbar</translation>
+        <translation>&amp;Minimise to the tray instead of the taskbar</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</translation>
+        <translation>Minimise instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimize on close</translation>
+        <translation>M&amp;inimise on close</translation>
     </message>
     <message>
         <source>&amp;Display</source>
@@ -1884,7 +1884,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the YUP network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the YUP network after a connection is established, but this process has not completed yet.</translation>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronises with the YUP network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -2004,7 +2004,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-        <translation>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
+        <translation>Not enough compatible inputs to anonymise &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymise &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
     </message>
     <message>
         <source>Overall progress</source>
@@ -2016,7 +2016,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Anonymized</source>
-        <translation>Anonymized</translation>
+        <translation>Anonymised</translation>
     </message>
     <message numerus="yes">
         <source>Denominated inputs have %5 of %n rounds on average</source>
@@ -2046,7 +2046,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Found enough compatible inputs to anonymize %1</source>
-        <translation>Found enough compatible inputs to anonymize %1</translation>
+        <translation>Found enough compatible inputs to anonymise %1</translation>
     </message>
     <message>
         <source>Start Mirage</source>
@@ -2117,7 +2117,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
-        <translation>Payment request is not initialized.</translation>
+        <translation>Payment request is not initialised.</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
@@ -2809,7 +2809,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Minimize</translation>
+        <translation>Minimise</translation>
     </message>
     <message>
         <source>Mirage</source>
@@ -2833,7 +2833,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(Smart fee not initialized yet. This usually takes a few blocks...)</translation>
+        <translation>(Smart fee not initialised yet. This usually takes a few blocks...)</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -3033,7 +3033,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Error: The wallet was unlocked only to anonymize coins.</source>
-        <translation>Error: The wallet was unlocked only to anonymize coins.</translation>
+        <translation>Error: The wallet was unlocked only to anonymise coins.</translation>
     </message>
     <message>
         <source>Pay only the minimum fee of %1</source>
@@ -3915,7 +3915,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
-        <translation>Change automatic finalized budget voting behaviour. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</translation>
+        <translation>Change automatic finalised budget voting behaviour. mode=auto: Vote for only exact finalised budget match to my generated budget. (string, default: auto)</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -4031,7 +4031,7 @@ https://www.transifex.com/notforhire/notforhire-translations</translation>
     </message>
     <message>
         <source>Mirage uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
-        <translation>Mirage uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</translation>
+        <translation>Mirage uses exact denominated amounts to send funds, you might simply need to anonymise some more coins.</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
@@ -4335,11 +4335,11 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Error initializing block database</translation>
+        <translation>Error initialising block database</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Error initializing wallet database environment %s!</translation>
+        <translation>Error initialising wallet database environment %s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
@@ -4411,7 +4411,7 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Finalizing transaction.</source>
-        <translation>Finalizing transaction.</translation>
+        <translation>Finalising transaction.</translation>
     </message>
     <message>
         <source>Force safe mode (default: %u)</source>
@@ -4467,7 +4467,7 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Initialization sanity check failed. YUP Core is shutting down.</source>
-        <translation>Initialization sanity check failed. YUP Core is shutting down.</translation>
+        <translation>Initialisation sanity check failed. YUP Core is shutting down.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4579,7 +4579,7 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Keep N YUP anonymized (default: %u)</source>
-        <translation>Keep N YUP anonymized (default: %u)</translation>
+        <translation>Keep N YUP anonymised (default: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -4943,31 +4943,31 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Synchronization failed</source>
-        <translation>Synchronization failed</translation>
+        <translation>Synchronisation failed</translation>
     </message>
     <message>
         <source>Synchronization finished</source>
-        <translation>Synchronization finished</translation>
+        <translation>Synchronisation finished</translation>
     </message>
     <message>
         <source>Synchronization pending...</source>
-        <translation>Synchronization pending...</translation>
+        <translation>Synchronisation pending...</translation>
     </message>
     <message>
         <source>Synchronizing budgets...</source>
-        <translation>Synchronizing budgets...</translation>
+        <translation>Synchronising budgets...</translation>
     </message>
     <message>
         <source>Synchronizing masternode winners...</source>
-        <translation>Synchronizing masternode winners...</translation>
+        <translation>Synchronising masternode winners...</translation>
     </message>
     <message>
         <source>Synchronizing masternodes...</source>
-        <translation>Synchronizing masternodes...</translation>
+        <translation>Synchronising masternodes...</translation>
     </message>
     <message>
         <source>Synchronizing sporks...</source>
-        <translation>Synchronizing sporks...</translation>
+        <translation>Synchronising sporks...</translation>
     </message>
     <message>
         <source>This help message</source>
@@ -5043,7 +5043,7 @@ for example: alertnotify=echo %%s | mail -s "YUP Alert" admin@foo.com
     </message>
     <message>
         <source>Use N separate masternodes to anonymize funds  (2-8, default: %u)</source>
-        <translation>Use N separate masternodes to anonymize funds  (2-8, default: %u)</translation>
+        <translation>Use N separate masternodes to anonymise funds  (2-8, default: %u)</translation>
     </message>
     <message>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
